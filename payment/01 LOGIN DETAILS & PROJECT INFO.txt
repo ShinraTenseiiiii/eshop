@@ -9,5 +9,5 @@
 
 **Admin Login Details**
 
-Email   : admin@mail.com
+Email   : admin@gmail.com
 Password: Password@123
