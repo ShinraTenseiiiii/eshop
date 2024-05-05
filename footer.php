@@ -86,7 +86,7 @@ This link will be active only for 24 hours.
 								   "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
 							// Sending the email
-							mail($to, $subject, $message, $headers);
+							// mail($to, $subject, $message, $headers);
 
 							$success_message1 = LANG_VALUE_136;
 				    	}

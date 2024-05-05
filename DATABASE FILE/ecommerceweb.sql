@@ -534,7 +534,7 @@ CREATE TABLE `tbl_language` (
 --
 
 INSERT INTO `tbl_language` (`lang_id`, `lang_name`, `lang_value`) VALUES
-(1, 'Currency', ''),
+(1, 'Currency', '$'),
 (2, 'Search Product', 'Search Product'),
 (3, 'Search', 'Search'),
 (4, 'Submit', 'Submit'),
@@ -626,7 +626,7 @@ INSERT INTO `tbl_language` (`lang_id`, `lang_name`, `lang_value`) VALUES
 (90, 'Welcome to the Dashboard', 'Welcome to the Dashboard'),
 (91, 'Back to Dashboard', 'Back to Dashboard'),
 (92, 'Subscribe', 'Subscribe'),
-(93, 'Subscribe To Our Newsletter', 'Subscribe To Our Newsletter'),
+(93, 'Get Notified from ecart', 'Get Notified from ecart'),
 (94, 'Email Address', 'Email Address'),
 (95, 'Enter Your Email Address', 'Enter Your Email Address'),
 (96, 'Password', 'Password'),
